@@ -1,0 +1,67 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get excessive in size.
+/[Mm]emoryCaptures/
+
+# Asset meta data should be tracked, but not specific files
+/[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated
+/[Ee]xportedObj/
+/*.csproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+
+# Unity3D generated meta files
+/*.pidb.meta
+/*.pdb.meta
+/*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+/*.apk
+/*.aab
+/*.unitypackage
+/*.[Cc]rash[Hh]andler.exe
+/*.[Rr]es[Ss]/
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon
+ehthumbs.db
+Thumbs.db
+
+# Your specific build files
+*.exe
+*_Data/
+UnityCrashHandler64.exe
+UnityPlayer.dll
+/[Mm]ono[Bb]leeding[Ee]dge/
+
+# Ignore large files for GitHub upload
+*.tga
+*.wav
+Assets/Files From Asset Store/
